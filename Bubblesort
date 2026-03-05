@@ -19,7 +19,6 @@ void input ()
         cout << "\nArray dapat mempunyai maksimal 20 elemen.\n";
        }
     }
-}
     cout << endl;
     cout << "====================" << endl;
     cout << "Masukkan Elemen Array" << endl;
@@ -30,5 +29,8 @@ void input ()
         cout << "Data ke-" << (i + 1) << ": ";
         cin >> arr[i];
     }
+
     void bubblesortarray()
+    
+    
     
